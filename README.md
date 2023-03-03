@@ -26,7 +26,7 @@
 
 Git repo for the Spelling Correction model for Search 
 Queries, developed by team *Spelling-Queens* as part of 
-HackOverflow2023.
+DS Hackathon 2023.
 
 ## Getting Started
 
